@@ -1,6 +1,6 @@
 FROM alpine:3.16.2
 
-ARG TUIC_VERSION=0.8.5
+ARG TUIC_VERSION=1.0.0
 ARG ARCH=x86_64-linux-musl
 
 WORKDIR /etc/tuic
